@@ -1,12 +1,4 @@
 /**
-Proiect realizat de:
-Butu Anda Irina
-Cercel Ana Maria
-Ciobanu Andrei Ovidiu
-Grupa 234
-**/
-
-/**
 Codul reprezinta un simulator pentru urmatorii algoritmi:
 FCFS (First Come First Served)
 SJF (Shortest Job First)
