@@ -15,3 +15,9 @@ Priority algorithm is a method of giving priority to the CPU performs the first 
 
 # 4 Round Robin
 Round Robin scheme, which is assigned to the US re-defined, and each time it processes (Time Quantum) to be performed by the CPU for each of the processes at once. The order in which the process is performed basically follows the order in which the request for the CPU to perform, i.e. the same way as the FCFS algorithm. 
+
+# 5 Preemptive & Non-preemptive LIF (Longest I / O First)
+The basic structure was the same implementation and SJF algorithm, the only difference is that instead of comparing the CPU burst time and compared with I / O burst time.
+
+# 6 Preemptive & Non-Preemptive LISC (Longest I / O Shortest CPU First)
+The advantage of the algorithm of the LIF (5) is clearly, but remain standing between the I / O burst the same time this process can not but the tteoan the disadvantages of the FCFS algorithm as since the Scheduling the FCFS system. Thus, the advantages of LIF algorithm while making disadvantage of FCFS algorithm, but the Scheduling by way of LIF algorithm a lower priority to minimize, among the I / O burst time is the same process M is a CPU burst time is the smallest process It was configured to select.
