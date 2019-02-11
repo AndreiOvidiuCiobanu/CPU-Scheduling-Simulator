@@ -2,7 +2,7 @@
 
 The processor is one of the Single Processor environment can be carried out it takes allocate resources only from the CPU at most one process at the same time. Therefore, we must face the multiple processes at the same time try to perform CPU operations
 
-#CPU Scheduling Algorithms
+# CPU Scheduling Algorithms
 
 # 1 FCFS (First Come First Served)
 This approach Preemptive manner if it is one of a process performed by the CPU because, the other processes can not be performed in the CPU until the process is complete, or by assigning the Interrupt CPU has become idle
